@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0EE3Ku5qSpc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashut\\OneDrive\\Desktop\\task-tracker-portfolio\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashut\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\ashut\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
